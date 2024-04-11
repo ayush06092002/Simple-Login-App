@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Login</string>
+    <string name="create_account">Enter a valid email and password of at least 6 characters with one uppercase letter</string>
+</resources>
